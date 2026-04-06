@@ -24,3 +24,13 @@ This project is designed for **learning core Java concepts** and basic project s
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/siriii04/Student-Management-System.git
+cd Student-Management-System
