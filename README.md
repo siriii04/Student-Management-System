@@ -25,4 +25,15 @@ This project is designed for **learning core Java concepts**, **object-oriented 
 
 ---
 
-'''## 📂 Project Structure
+## 📂 Project Structure
+
+```
+Student-Management-System/
+│── Main.java              # Entry point of the application
+│── Student.java           # Student model class
+│── StudentManager.java    # Handles student operations
+│── StudentGUI.java        # GUI using Java Swing
+│── students.txt           # Stores student data
+│── .gitignore             # Git ignore file
+│── README.md              # Project documentation
+```
